@@ -1,4 +1,4 @@
-#Eddie.vim
+# Eddie.vim
 
 A dark pastel colorscheme my friend spent too much time on.
 
